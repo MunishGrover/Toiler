@@ -1,0 +1,11 @@
+ body{
+     background-color: rgb(250,240,230);
+ }
+ #liner{
+     margin-top: 10%;
+     border: 1px solid black;
+ }
+ .hal{
+     border: 1px solid red;
+
+ }

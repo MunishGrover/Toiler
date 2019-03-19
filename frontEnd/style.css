@@ -1,0 +1,136 @@
+/*nav*/
+body{
+    background: url("https://images.unsplash.com/photo-1471445281684-fdf28e036aa8?ixlib=rb-0.3.5&s=17022bf349692556c0158bc6ee4c7cd7&auto=format&fit=crop&w=801&q=80");
+    background-size: cover;
+    background-position: center;
+   background-attachment: fixed;/*
+    background-color: midnightblue;*/
+}
+.navbar{
+     background-color: rgb(224,255,255) !important;
+}
+#brand{
+    font-family: 'Lobster', cursive;
+    color: black;
+}
+.g{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-left: 80%;
+}r
+
+#h{
+    color: black;
+}
+#t{
+    color: black;
+}
+#l{
+    color: black;
+}
+
+/*nav*/
+.background{
+    background-color: whitesmoke;
+    width: 100%;
+
+    margin-top: 40%;
+  /*  border: 1px solid black;
+  */  border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+.focusT{
+    color: floralwhite;
+    text-align: center;
+    margin-top: 15%;
+}
+footer{
+    background-color: whitesmoke;
+}
+#d{
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+}
+#lineT{
+    border: 1px solid whitesmoke;
+    width: 80%;
+}
+#subT{
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+}
+.grid1{
+    cursor: pointer;
+}
+
+  .ro{
+      padding-top: 100px;
+      text-align: center;
+      position: relative;
+  }
+  .grid{
+      margin-top: 40px;
+      margin-bottom: 40px;
+  }
+.y{/*
+    border: 1px solid black;*/
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.grid11{
+    background-color: red;
+    height: auto;
+    width: auto;
+}
+.grid12{
+    background-color: green;
+}
+.grid13{
+    background-color: blue;
+}
+.grid21{
+    background-color: rebeccapurple;
+}
+.grid22{
+    background-color: yellow;
+}
+.grid23{
+    background-color: saddlebrown;
+}
+.grid31{
+    background-color: rgb(70,130,180);
+}
+.grid32{
+    background-color: salmon;
+}
+.grid33{
+    background-color: rgb(0,250,154);
+}
+.heroic{
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+img {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    opacity: 0.75;
+    overflow: hidden;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition-timing-function: ease-in;
+    transition: 1.5s;
+}
+
+img:hover {
+    opacity: 1;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+    -moz-transform: scale(1.25);
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+    transition-timing-function: ease-in;
+    transition: 1.5s;
+}

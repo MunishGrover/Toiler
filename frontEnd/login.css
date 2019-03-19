@@ -1,0 +1,25 @@
+body{
+    background-color: #3DFAFF;
+}
+.main{
+    background-color:whitesmoke;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 300px;
+    width:600px;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border: 3px solid black;
+}
+.container{
+    width: 100%;
+    padding-top: 30px;
+    align-content: center;
+}
+.lay{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
